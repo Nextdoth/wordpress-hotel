@@ -1,0 +1,621 @@
+# German translation for Hotel Krone theme
+# Copyright (C) 2024 Rhein-Hotel Krone
+# This file is distributed under the same license as the Hotel Krone theme.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Krone 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hotel-krone\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01 00:00:00+00:00\n"
+"Last-Translator: Hotel Krone <info@rhein-hotel-krone.de>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: hotel-krone\n"
+
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+msgid "Open menu"
+msgstr "Menü öffnen"
+
+msgid "Close menu"
+msgstr "Menü schließen"
+
+msgid "Rooms"
+msgstr "Zimmer"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Book Now"
+msgstr "Jetzt buchen"
+
+msgid "A historic Rhine River hotel since 950 AD, offering timeless hospitality, fine dining, and unforgettable views in the heart of Boppard am Rhein."
+msgstr "Ein historisches Rheinhotel seit 950 n. Chr., das zeitlose Gastfreundschaft, gehobene Küche und unvergessliche Aussichten im Herzen von Boppard am Rhein bietet."
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Home"
+msgstr "Startseite"
+
+msgid "About"
+msgstr "Über uns"
+
+msgid "Services"
+msgstr "Leistungen"
+
+msgid "Free WiFi"
+msgstr "Kostenloses WLAN"
+
+msgid "Restaurant La Corona"
+msgstr "Restaurant La Corona"
+
+msgid "Conference Rooms"
+msgstr "Konferenzräume"
+
+msgid "Rhine River Cruises"
+msgstr "Rheinschifffahrten"
+
+msgid "Parking"
+msgstr "Parkplatz"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Reception"
+msgstr "Rezeption"
+
+msgid "Mon – Sun: 07:00 – 23:00"
+msgstr "Mo – So: 07:00 – 23:00 Uhr"
+
+msgid "Privacy Policy"
+msgstr "Datenschutz"
+
+msgid "Imprint"
+msgstr "Impressum"
+
+msgid "Terms"
+msgstr "AGB"
+
+msgid "All rights reserved."
+msgstr "Alle Rechte vorbehalten."
+
+msgid "404"
+msgstr "404"
+
+msgid "Page Not Found"
+msgstr "Seite nicht gefunden"
+
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr "Die gesuchte Seite wurde möglicherweise entfernt, umbenannt oder ist vorübergehend nicht verfügbar."
+
+msgid "Back to Homepage"
+msgstr "Zurück zur Startseite"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search for..."
+msgstr "Suchen..."
+
+msgid "Search Results for:"
+msgstr "Suchergebnisse für:"
+
+msgid "Nothing Found"
+msgstr "Keine Ergebnisse"
+
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Leider wurden keine Ergebnisse gefunden. Bitte versuchen Sie es mit anderen Suchbegriffen."
+
+msgid "Accommodation"
+msgstr "Unterkunft"
+
+msgid "All Rooms & Suites"
+msgstr "Alle Zimmer & Suiten"
+
+msgid "Discover our carefully appointed rooms and suites, each offering stunning Rhine River views."
+msgstr "Entdecken Sie unsere sorgfältig eingerichteten Zimmer und Suiten, alle mit atemberaubendem Rheinblick."
+
+msgid "from"
+msgstr "ab"
+
+msgid "night"
+msgstr "Nacht"
+
+msgid "View & Book"
+msgstr "Ansehen & Buchen"
+
+msgid "No rooms available at the moment. Please contact us for reservations."
+msgstr "Derzeit keine Zimmer verfügbar. Bitte kontaktieren Sie uns für Reservierungen."
+
+msgid "Contact Us"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Room Details"
+msgstr "Zimmerdetails"
+
+msgid "per night"
+msgstr "pro Nacht"
+
+msgid "Adults"
+msgstr "Erwachsene"
+
+msgid "Room Size"
+msgstr "Zimmergröße"
+
+msgid "Bed Type"
+msgstr "Bettart"
+
+msgid "View"
+msgstr "Aussicht"
+
+msgid "Floor"
+msgstr "Etage"
+
+msgid "Amenities"
+msgstr "Ausstattung"
+
+msgid "Book This Room"
+msgstr "Dieses Zimmer buchen"
+
+msgid "Need help with your reservation?"
+msgstr "Benötigen Sie Hilfe bei Ihrer Reservierung?"
+
+msgid "Call us:"
+msgstr "Rufen Sie uns an:"
+
+msgid "or email:"
+msgstr "oder per E-Mail:"
+
+msgid "More Rooms"
+msgstr "Weitere Zimmer"
+
+msgid "Boppard am Rhein · Germany"
+msgstr "Boppard am Rhein · Deutschland"
+
+msgid "Historic Elegance on the Rhine"
+msgstr "Historische Eleganz am Rhein"
+
+msgid "Experience over 1,000 years of hospitality on the shores of the Middle Rhine"
+msgstr "Erleben Sie über 1.000 Jahre Gastfreundschaft am Ufer des Mittelrheins"
+
+msgid "Explore Our Rooms"
+msgstr "Unsere Zimmer entdecken"
+
+msgid "Book Your Stay"
+msgstr "Aufenthalt buchen"
+
+msgid "Scroll to discover"
+msgstr "Scrollen zum Entdecken"
+
+msgid "Check-in"
+msgstr "Anreise"
+
+msgid "Check-out"
+msgstr "Abreise"
+
+msgid "Guests"
+msgstr "Gäste"
+
+msgid "Check Availability"
+msgstr "Verfügbarkeit prüfen"
+
+msgid "Our Story"
+msgstr "Unsere Geschichte"
+
+msgid "A Thousand Years of Hospitality"
+msgstr "Tausend Jahre Gastfreundschaft"
+
+msgid "Nestled on the banks of the legendary Rhine River in Boppard, our historic hotel has been welcoming guests since around 950 AD. The Rhein-Hotel Krone is one of Germany's oldest continuously operating hotels, blending centuries of tradition with modern comfort."
+msgstr "Eingebettet am Ufer des legendären Rheins in Boppard begrüßt unser historisches Hotel seit etwa 950 n. Chr. Gäste. Das Rhein-Hotel Krone ist eines der ältesten ununterbrochen betriebenen Hotels Deutschlands und verbindet jahrhundertelange Tradition mit modernem Komfort."
+
+msgid "Panoramic Rhine views from every room"
+msgstr "Panoramablick auf den Rhein aus jedem Zimmer"
+
+msgid "UNESCO World Heritage setting"
+msgstr "UNESCO-Welterbe-Umgebung"
+
+msgid "Fine dining at Restaurant La Corona"
+msgstr "Gehobene Küche im Restaurant La Corona"
+
+msgid "Warm, personal hospitality since 950 AD"
+msgstr "Herzliche, persönliche Gastfreundschaft seit 950 n. Chr."
+
+msgid "Discover Our History"
+msgstr "Unsere Geschichte entdecken"
+
+msgid "Our Rooms"
+msgstr "Unsere Zimmer"
+
+msgid "Rooms & Suites"
+msgstr "Zimmer & Suiten"
+
+msgid "Each of our elegantly appointed rooms offers stunning Rhine River views and all modern comforts."
+msgstr "Jedes unserer elegant eingerichteten Zimmer bietet atemberaubenden Rheinblick und allen modernen Komfort."
+
+msgid "View All Rooms"
+msgstr "Alle Zimmer ansehen"
+
+msgid "Hotel Amenities"
+msgstr "Hotelausstattung"
+
+msgid "Everything You Need"
+msgstr "Alles, was Sie brauchen"
+
+msgid "High-speed internet throughout the hotel"
+msgstr "Schnelles Internet im gesamten Hotel"
+
+msgid "La Corona Restaurant"
+msgstr "Restaurant La Corona"
+
+msgid "Authentic Italian cuisine with Rhine views"
+msgstr "Authentische italienische Küche mit Rheinblick"
+
+msgid "Free Parking"
+msgstr "Kostenloser Parkplatz"
+
+msgid "Complimentary parking for all hotel guests"
+msgstr "Kostenlose Parkplätze für alle Hotelgäste"
+
+msgid "Hotel Bar"
+msgstr "Hotelbar"
+
+msgid "Curated wines and Rhine valley specialties"
+msgstr "Ausgewählte Weine und Rheintal-Spezialitäten"
+
+msgid "Rhine River Views"
+msgstr "Rheinblick"
+
+msgid "Panoramic views from most rooms and terraces"
+msgstr "Panoramablick aus den meisten Zimmern und Terrassen"
+
+msgid "Modern facilities for business events"
+msgstr "Moderne Einrichtungen für Geschäftsveranstaltungen"
+
+msgid "Rhine Cruises"
+msgstr "Rheinschifffahrten"
+
+msgid "Boat tours arranged on request"
+msgstr "Bootstouren auf Anfrage arrangiert"
+
+msgid "Laundry Service"
+msgstr "Wäscheservice"
+
+msgid "In-house laundry available daily"
+msgstr "Hauseigene Wäscherei täglich verfügbar"
+
+msgid "Room Service"
+msgstr "Zimmerservice"
+
+msgid "Available during restaurant hours"
+msgstr "Während der Restaurantzeiten verfügbar"
+
+msgid "Garden Terrace"
+msgstr "Gartenterrasse"
+
+msgid "Riverside garden for relaxation"
+msgstr "Rheinufer-Garten zum Entspannen"
+
+msgid "Fine Dining"
+msgstr "Gehobene Küche"
+
+msgid "Authentic Italian cuisine in an unmatched Rhine River setting. Chef Marco brings the flavors of Italy to the heart of the Rhineland."
+msgstr "Authentische italienische Küche in einzigartiger Rheinlage. Küchenchef Marco bringt die Aromen Italiens ins Herz des Rheinlandes."
+
+msgid "Seasonal ingredients from local Rhine Valley farms"
+msgstr "Saisonale Zutaten von regionalen Rheintaler Höfen"
+
+msgid "Extensive wine cellar with Italian and German selections"
+msgstr "Umfangreicher Weinkeller mit italienischen und deutschen Weinen"
+
+msgid "Riverside terrace seating in summer"
+msgstr "Terrassensitzen am Rheinufer im Sommer"
+
+msgid "Private dining room for special occasions"
+msgstr "Privater Speisesaal für besondere Anlässe"
+
+msgid "Live piano music on weekends"
+msgstr "Live-Klaviermusik am Wochenende"
+
+msgid "Opening Hours"
+msgstr "Öffnungszeiten"
+
+msgid "View Full Menu"
+msgstr "Vollständige Speisekarte"
+
+msgid "Reserve a Table"
+msgstr "Tisch reservieren"
+
+msgid "Photo Gallery"
+msgstr "Fotogalerie"
+
+msgid "Discover Rhein-Hotel Krone"
+msgstr "Entdecken Sie das Rhein-Hotel Krone"
+
+msgid "Hotel image"
+msgstr "Hotelbild"
+
+msgid "View Gallery"
+msgstr "Galerie ansehen"
+
+msgid "Guest Reviews"
+msgstr "Gästebewertungen"
+
+msgid "What Our Guests Say"
+msgstr "Was unsere Gäste sagen"
+
+msgid "Founded"
+msgstr "Gegründet"
+
+msgid "Guest Rating"
+msgstr "Gästebewertung"
+
+msgid "Years of Hospitality"
+msgstr "Jahre Gastfreundschaft"
+
+msgid "Reserve Your Stay"
+msgstr "Ihren Aufenthalt reservieren"
+
+msgid "Ready for an Unforgettable Rhine River Experience?"
+msgstr "Bereit für ein unvergessliches Rhein-Erlebnis?"
+
+msgid "\"A room with a view and a heart full of memories\""
+msgstr "„Ein Zimmer mit Aussicht und ein Herz voller Erinnerungen""
+
+msgid "Call to Book"
+msgstr "Anrufen & buchen"
+
+msgid "Email Us"
+msgstr "E-Mail schreiben"
+
+msgid "Find your perfect retreat with stunning Rhine River views"
+msgstr "Finden Sie Ihr perfektes Refugium mit atemberaubendem Rheinblick"
+
+msgid "Rooms will be added shortly. Please contact us for reservations."
+msgstr "Zimmer werden in Kürze hinzugefügt. Bitte kontaktieren Sie uns für Reservierungen."
+
+msgid "Get in Touch"
+msgstr "Kontakt aufnehmen"
+
+msgid "We'd love to hear from you. Reach out for reservations, inquiries, or just to say hello."
+msgstr "Wir freuen uns auf Ihre Nachricht. Kontaktieren Sie uns für Reservierungen, Anfragen oder einfach nur Hallo."
+
+msgid "Rhein-Hotel Krone"
+msgstr "Rhein-Hotel Krone"
+
+msgid "Reception Hours"
+msgstr "Rezeptionszeiten"
+
+msgid "Rhein-Hotel Krone Location"
+msgstr "Standort Rhein-Hotel Krone"
+
+msgid "Send Us a Message"
+msgstr "Senden Sie uns eine Nachricht"
+
+msgid "For room reservations, we recommend calling us directly. For general inquiries, use the form below."
+msgstr "Für Zimmerreservierungen empfehlen wir, uns direkt anzurufen. Für allgemeine Anfragen nutzen Sie bitte das folgende Formular."
+
+msgid "Your Name *"
+msgstr "Ihr Name *"
+
+msgid "Email Address *"
+msgstr "E-Mail-Adresse *"
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "— Subject —"
+msgstr "— Betreff —"
+
+msgid "Room Reservation"
+msgstr "Zimmerreservierung"
+
+msgid "Restaurant Reservation"
+msgstr "Tischreservierung"
+
+msgid "General Inquiry"
+msgstr "Allgemeine Anfrage"
+
+msgid "Event / Conference"
+msgstr "Veranstaltung / Konferenz"
+
+msgid "Your message..."
+msgstr "Ihre Nachricht..."
+
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+msgid "Our Menu"
+msgstr "Unsere Speisekarte"
+
+msgid "Italian Flavours, Rhine Valley Setting"
+msgstr "Italienische Aromen, Rheintal-Ambiente"
+
+msgid "Antipasti"
+msgstr "Vorspeisen"
+
+msgid "Grilled bread, fresh tomatoes, basil"
+msgstr "Gegrilltes Brot, frische Tomaten, Basilikum"
+
+msgid "Thinly sliced beef, arugula, parmesan"
+msgstr "Hauchdünn geschnittenes Rindfleisch, Rucola, Parmesan"
+
+msgid "Soup of the day"
+msgstr "Tagessuppe"
+
+msgid "Buffalo mozzarella, tomatoes, basil oil"
+msgstr "Büffelmozzarella, Tomaten, Basilikumöl"
+
+msgid "Secondi"
+msgstr "Hauptgerichte"
+
+msgid "Braised veal shank, gremolata, saffron risotto"
+msgstr "Geschmorte Kalbshaxe, Gremolata, Safranrisotto"
+
+msgid "Sea bass fillet, lemon butter, capers"
+msgstr "Wolfsbarschfilet, Zitronenbutter, Kapern"
+
+msgid "Roman-style chicken, peppers, white wine"
+msgstr "Hähnchen nach römischer Art, Paprika, Weißwein"
+
+msgid "Spaghetti, guanciale, egg yolk, pecorino"
+msgstr "Spaghetti, Guanciale, Eigelb, Pecorino"
+
+msgid "Dolci"
+msgstr "Desserts"
+
+msgid "House tiramisù, espresso, mascarpone"
+msgstr "Haus-Tiramisù, Espresso, Mascarpone"
+
+msgid "Vanilla panna cotta, raspberry coulis"
+msgstr "Vanille-Panna-Cotta, Himbeercoulis"
+
+msgid "3 scoops of artisanal ice cream"
+msgstr "3 Kugeln handgemachtes Eis"
+
+msgid "Crispy shell, ricotta, candied orange"
+msgstr "Knusprige Schale, Ricotta, kandierte Orange"
+
+msgid "Table reservations recommended for dinner. Hotel guests receive 10% discount."
+msgstr "Tischreservierung für das Abendessen empfohlen. Hotelgäste erhalten 10% Rabatt."
+
+msgid "Hotel Information"
+msgstr "Hotelinformationen"
+
+msgid "Contact Details"
+msgstr "Kontaktdaten"
+
+msgid "Street Address"
+msgstr "Straßenadresse"
+
+msgid "Google Maps Embed URL"
+msgstr "Google Maps Einbettungs-URL"
+
+msgid "Social Media"
+msgstr "Soziale Medien"
+
+msgid "Facebook URL"
+msgstr "Facebook-URL"
+
+msgid "Instagram URL"
+msgstr "Instagram-URL"
+
+msgid "TripAdvisor URL"
+msgstr "TripAdvisor-URL"
+
+msgid "Booking.com URL"
+msgstr "Booking.com-URL"
+
+msgid "Hero Section"
+msgstr "Hero-Bereich"
+
+msgid "Hero Title"
+msgstr "Hero-Titel"
+
+msgid "Hero Subtitle"
+msgstr "Hero-Untertitel"
+
+msgid "Hero Background Image URL"
+msgstr "Hero-Hintergrundbild-URL"
+
+msgid "Restaurant Opening Hours"
+msgstr "Restaurant-Öffnungszeiten"
+
+msgid "Hotel Stats"
+msgstr "Hotelstatistiken"
+
+msgid "Founded Year"
+msgstr "Gründungsjahr"
+
+msgid "Total Rooms"
+msgstr "Gesamtzimmer"
+
+msgid "Review Score (e.g. 4.8)"
+msgstr "Bewertung (z.B. 4,8)"
+
+msgid "Years of Experience"
+msgstr "Jahre Erfahrung"
+
+msgid "Testimonials"
+msgstr "Gästestimmen"
+
+msgid "Testimonial"
+msgstr "Gästestimme"
+
+msgid "Add New Testimonial"
+msgstr "Neue Gästestimme hinzufügen"
+
+msgid "Edit Testimonial"
+msgstr "Gästestimme bearbeiten"
+
+msgid "All Testimonials"
+msgstr "Alle Gästestimmen"
+
+msgid "Gallery Images"
+msgstr "Galeriebilder"
+
+msgid "Gallery Image"
+msgstr "Galeriebild"
+
+msgid "Add New Gallery Image"
+msgstr "Neues Galeriebild hinzufügen"
+
+msgid "Edit Gallery Image"
+msgstr "Galeriebild bearbeiten"
+
+msgid "All Gallery Images"
+msgstr "Alle Galeriebilder"
+
+msgid "Guest Details"
+msgstr "Gastdetails"
+
+msgid "Guest Name"
+msgstr "Gastname"
+
+msgid "Location"
+msgstr "Herkunft"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "1 Star"
+msgstr "1 Stern"
+
+msgid "2 Stars"
+msgstr "2 Sterne"
+
+msgid "3 Stars"
+msgstr "3 Sterne"
+
+msgid "4 Stars"
+msgstr "4 Sterne"
+
+msgid "5 Stars"
+msgstr "5 Sterne"
+
+msgid "Stay Date"
+msgstr "Aufenthaltsdatum"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Deutsch"
+msgstr "Deutsch"

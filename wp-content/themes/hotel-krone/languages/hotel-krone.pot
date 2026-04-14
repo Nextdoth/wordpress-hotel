@@ -1,0 +1,980 @@
+# Copyright (C) 2024 Rhein-Hotel Krone
+# This file is distributed under the same license as the Hotel Krone theme.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Krone 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hotel-krone\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: WP-CLI 2.x\n"
+"X-Domain: hotel-krone\n"
+
+#. Theme Name of the theme
+msgid "Hotel Krone"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://rhein-hotel-krone.de"
+msgstr ""
+
+#. Description of the theme
+msgid "Premium WordPress theme for Rhein-Hotel Krone, a historic hotel on the Rhine River in Boppard am Rhein, Germany."
+msgstr ""
+
+#. Author of the theme
+msgid "Hotel Krone"
+msgstr ""
+
+#: header.php
+msgid "Skip to content"
+msgstr ""
+
+#: header.php
+msgid "Open menu"
+msgstr ""
+
+#: header.php
+msgid "Close menu"
+msgstr ""
+
+#: header.php inc/template-functions.php
+msgid "Rooms"
+msgstr ""
+
+#: header.php inc/template-functions.php
+msgid "Restaurant"
+msgstr ""
+
+#: header.php inc/template-functions.php
+msgid "Gallery"
+msgstr ""
+
+#: header.php inc/template-functions.php
+msgid "Contact"
+msgstr ""
+
+#: header.php inc/template-functions.php
+msgid "Book Now"
+msgstr ""
+
+#: header.php
+msgid "EN"
+msgstr ""
+
+#: header.php
+msgid "DE"
+msgstr ""
+
+#: footer.php
+msgid "A historic Rhine River hotel since 950 AD, offering timeless hospitality, fine dining, and unforgettable views in the heart of Boppard am Rhein."
+msgstr ""
+
+#: footer.php
+msgid "Navigation"
+msgstr ""
+
+#: footer.php
+msgid "Home"
+msgstr ""
+
+#: footer.php
+msgid "About"
+msgstr ""
+
+#: footer.php
+msgid "Services"
+msgstr ""
+
+#: footer.php
+msgid "Free WiFi"
+msgstr ""
+
+#: footer.php
+msgid "Restaurant La Corona"
+msgstr ""
+
+#: footer.php
+msgid "Conference Rooms"
+msgstr ""
+
+#: footer.php
+msgid "Rhine River Cruises"
+msgstr ""
+
+#: footer.php
+msgid "Parking"
+msgstr ""
+
+#: footer.php
+msgid "Contact"
+msgstr ""
+
+#: footer.php
+msgid "Address"
+msgstr ""
+
+#: footer.php
+msgid "Phone"
+msgstr ""
+
+#: footer.php
+msgid "Email"
+msgstr ""
+
+#: footer.php
+msgid "Reception"
+msgstr ""
+
+#: footer.php
+msgid "Mon – Sun: 07:00 – 23:00"
+msgstr ""
+
+#: footer.php
+msgid "Privacy Policy"
+msgstr ""
+
+#: footer.php
+msgid "Imprint"
+msgstr ""
+
+#: footer.php
+msgid "Terms"
+msgstr ""
+
+#: footer.php
+msgid "All rights reserved."
+msgstr ""
+
+#: front-page.php page.php
+msgid "Page not found."
+msgstr ""
+
+#: 404.php
+msgid "404"
+msgstr ""
+
+#: 404.php
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr ""
+
+#: 404.php
+msgid "Back to Homepage"
+msgstr ""
+
+#: 404.php
+msgid "Search"
+msgstr ""
+
+#: 404.php
+msgid "Search for..."
+msgstr ""
+
+#: search.php
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: archive-hk_room.php single-hk_room.php
+msgid "Accommodation"
+msgstr ""
+
+#: archive-hk_room.php
+msgid "All Rooms & Suites"
+msgstr ""
+
+#: archive-hk_room.php
+msgid "Discover our carefully appointed rooms and suites, each offering stunning Rhine River views."
+msgstr ""
+
+#: archive-hk_room.php single-hk_room.php template-parts/rooms-grid.php
+msgid "from"
+msgstr ""
+
+#: archive-hk_room.php single-hk_room.php template-parts/rooms-grid.php
+msgid "night"
+msgstr ""
+
+#: archive-hk_room.php template-parts/rooms-grid.php
+msgid "View & Book"
+msgstr ""
+
+#: archive-hk_room.php
+msgid "No rooms available at the moment. Please contact us for reservations."
+msgstr ""
+
+#: archive-hk_room.php
+msgid "Contact Us"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Room Details"
+msgstr ""
+
+#: single-hk_room.php
+msgid "per night"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Adults"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Room Size"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Bed Type"
+msgstr ""
+
+#: single-hk_room.php
+msgid "View"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Floor"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Amenities"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Book This Room"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Need help with your reservation?"
+msgstr ""
+
+#: single-hk_room.php
+msgid "Call us:"
+msgstr ""
+
+#: single-hk_room.php
+msgid "or email:"
+msgstr ""
+
+#: single-hk_room.php
+msgid "More Rooms"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Boppard am Rhein · Germany"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Historic Elegance on the Rhine"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Experience over 1,000 years of hospitality on the shores of the Middle Rhine"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Explore Our Rooms"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Book Your Stay"
+msgstr ""
+
+#: template-parts/hero.php
+msgid "Scroll to discover"
+msgstr ""
+
+#: template-parts/booking-bar.php
+msgid "Check-in"
+msgstr ""
+
+#: template-parts/booking-bar.php
+msgid "Check-out"
+msgstr ""
+
+#: template-parts/booking-bar.php
+msgid "Guests"
+msgstr ""
+
+#: template-parts/booking-bar.php
+msgid "Check Availability"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Our Story"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "A Thousand Years of Hospitality"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Nestled on the banks of the legendary Rhine River in Boppard, our historic hotel has been welcoming guests since around 950 AD. The Rhein-Hotel Krone is one of Germany's oldest continuously operating hotels, blending centuries of tradition with modern comfort."
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Surrounded by the breathtaking UNESCO World Heritage Upper Middle Rhine Valley, our hotel offers an unmatched setting — terraced vineyards, medieval castles, and the majestic river flowing past your window."
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Panoramic Rhine views from every room"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "UNESCO World Heritage setting"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Fine dining at Restaurant La Corona"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Warm, personal hospitality since 950 AD"
+msgstr ""
+
+#: template-parts/about-section.php
+msgid "Discover Our History"
+msgstr ""
+
+#: template-parts/rooms-grid.php
+msgid "Our Rooms"
+msgstr ""
+
+#: template-parts/rooms-grid.php
+msgid "Rooms & Suites"
+msgstr ""
+
+#: template-parts/rooms-grid.php
+msgid "Each of our elegantly appointed rooms offers stunning Rhine River views and all modern comforts."
+msgstr ""
+
+#: template-parts/rooms-grid.php
+msgid "View All Rooms"
+msgstr ""
+
+#: template-parts/rooms-grid.php
+msgid "Rooms will be listed here. Please contact us for reservations."
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Hotel Amenities"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Everything You Need"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Free WiFi"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "High-speed internet throughout the hotel"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "La Corona Restaurant"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Authentic Italian cuisine with Rhine views"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Free Parking"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Complimentary parking for all hotel guests"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Hotel Bar"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Curated wines and Rhine valley specialties"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Rhine River Views"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Panoramic views from most rooms and terraces"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Conference Rooms"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Modern facilities for business events"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Rhine Cruises"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Boat tours arranged on request"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Laundry Service"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "In-house laundry available daily"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Room Service"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Available during restaurant hours"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Garden Terrace"
+msgstr ""
+
+#: template-parts/amenities.php
+msgid "Riverside garden for relaxation"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Fine Dining"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Restaurant La Corona"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Authentic Italian cuisine in an unmatched Rhine River setting. Chef Marco brings the flavors of Italy to the heart of the Rhineland."
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Seasonal ingredients from local Rhine Valley farms"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Extensive wine cellar with Italian and German selections"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Riverside terrace seating in summer"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Private dining room for special occasions"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Live piano music on weekends"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Opening Hours"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Daily 12:00 – 14:30 &amp; 18:00 – 22:00"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "View Full Menu"
+msgstr ""
+
+#: template-parts/restaurant.php
+msgid "Reserve a Table"
+msgstr ""
+
+#: template-parts/gallery.php
+msgid "Photo Gallery"
+msgstr ""
+
+#: template-parts/gallery.php
+msgid "Discover Rhein-Hotel Krone"
+msgstr ""
+
+#: template-parts/gallery.php
+msgid "Hotel image"
+msgstr ""
+
+#: template-parts/gallery.php
+msgid "View Gallery"
+msgstr ""
+
+#: template-parts/testimonials.php
+msgid "Guest Reviews"
+msgstr ""
+
+#: template-parts/testimonials.php
+msgid "What Our Guests Say"
+msgstr ""
+
+#: template-parts/testimonials.php
+msgid "Previous review"
+msgstr ""
+
+#: template-parts/testimonials.php
+msgid "Next review"
+msgstr ""
+
+#: template-parts/stats.php
+msgid "Founded"
+msgstr ""
+
+#: template-parts/stats.php
+msgid "Rooms & Suites"
+msgstr ""
+
+#: template-parts/stats.php
+msgid "Guest Rating"
+msgstr ""
+
+#: template-parts/stats.php
+msgid "Years of Hospitality"
+msgstr ""
+
+#: template-parts/cta-banner.php
+msgid "Reserve Your Stay"
+msgstr ""
+
+#: template-parts/cta-banner.php
+msgid "Ready for an Unforgettable Rhine River Experience?"
+msgstr ""
+
+#: template-parts/cta-banner.php
+msgid "\"A room with a view and a heart full of memories\""
+msgstr ""
+
+#: template-parts/cta-banner.php
+msgid "Call to Book"
+msgstr ""
+
+#: template-parts/cta-banner.php
+msgid "Email Us"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Accommodation"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Rooms & Suites"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Find your perfect retreat with stunning Rhine River views"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Check-in"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Check-out"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Adults"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Check Availability"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "from"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "night"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "View & Book"
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Rooms will be added shortly. Please contact us for reservations."
+msgstr ""
+
+#: page-templates/template-rooms.php
+msgid "Contact Us"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Get in Touch"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Contact Us"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "We'd love to hear from you. Reach out for reservations, inquiries, or just to say hello."
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Rhein-Hotel Krone"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Address"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Phone"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Email"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Reception Hours"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Mon – Sun: 07:00 – 23:00"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Rhein-Hotel Krone Location"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Send Us a Message"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "For room reservations, we recommend calling us directly. For general inquiries, use the form below."
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Your Name *"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Email Address *"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Phone Number"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "— Subject —"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Room Reservation"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Restaurant Reservation"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "General Inquiry"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Event / Conference"
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Your message..."
+msgstr ""
+
+#: page-templates/template-contact.php
+msgid "Send Message"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Fine Dining"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Restaurant"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Our Menu"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Italian Flavours, Rhine Valley Setting"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Antipasti"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Grilled bread, fresh tomatoes, basil"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Thinly sliced beef, arugula, parmesan"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Soup of the day"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Buffalo mozzarella, tomatoes, basil oil"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Secondi"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Braised veal shank, gremolata, saffron risotto"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Sea bass fillet, lemon butter, capers"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Roman-style chicken, peppers, white wine"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Spaghetti, guanciale, egg yolk, pecorino"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Dolci"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "House tiramisù, espresso, mascarpone"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Vanilla panna cotta, raspberry coulis"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "3 scoops of artisanal ice cream"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Crispy shell, ricotta, candied orange"
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Table reservations recommended for dinner. Hotel guests receive 10% discount."
+msgstr ""
+
+#: page-templates/template-restaurant.php
+msgid "Reserve a Table"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hotel Information"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Street Address"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Google Maps Embed URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "TripAdvisor URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Booking.com URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero Title"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero Subtitle"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero Background Image URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Restaurant"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Restaurant Opening Hours"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hotel Stats"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Founded Year"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Total Rooms"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Review Score (e.g. 4.8)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Years of Experience"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-types.php
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Gallery Image"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Gallery Image"
+msgstr ""
+
+#: inc/post-types.php
+msgid "All Gallery Images"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Guest Details"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Guest Name"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Location"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Rating"
+msgstr ""
+
+#: inc/post-types.php
+msgid "1 Star"
+msgstr ""
+
+#: inc/post-types.php
+msgid "2 Stars"
+msgstr ""
+
+#: inc/post-types.php
+msgid "3 Stars"
+msgstr ""
+
+#: inc/post-types.php
+msgid "4 Stars"
+msgstr ""
+
+#: inc/post-types.php
+msgid "5 Stars"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Stay Date"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "English"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "Deutsch"
+msgstr ""

@@ -1,0 +1,624 @@
+# German translation for Hotel Booking plugin
+# Copyright (C) 2024 Rhein-Hotel Krone
+# This file is distributed under the same license as the Hotel Booking plugin.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Booking 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-booking\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01 00:00:00+00:00\n"
+"Last-Translator: Hotel Krone <info@rhein-hotel-krone.de>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: hotel-booking\n"
+
+msgid "Hotel Booking"
+msgstr "Hotel-Buchung"
+
+msgid "Booking"
+msgstr "Buchung"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Reservations"
+msgstr "Reservierungen"
+
+msgid "All Reservations"
+msgstr "Alle Reservierungen"
+
+msgid "Add Reservation"
+msgstr "Reservierung hinzufügen"
+
+msgid "Availability Calendar"
+msgstr "Verfügbarkeitskalender"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Hotel Booking Dashboard"
+msgstr "Hotel-Buchungs-Dashboard"
+
+msgid "Confirmed Bookings"
+msgstr "Bestätigte Buchungen"
+
+msgid "This month"
+msgstr "Diesen Monat"
+
+msgid "Revenue This Month"
+msgstr "Umsatz diesen Monat"
+
+msgid "vs last month"
+msgstr "vs. letzten Monat"
+
+msgid "Occupancy Rate"
+msgstr "Belegungsrate"
+
+msgid "Check-ins Today"
+msgstr "Anreisen heute"
+
+msgid "Check-outs Today"
+msgstr "Abreisen heute"
+
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgid "Needs review"
+msgstr "Prüfung erforderlich"
+
+msgid "Recent Reservations"
+msgstr "Aktuelle Reservierungen"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Guest"
+msgstr "Gast"
+
+msgid "Room"
+msgstr "Zimmer"
+
+msgid "Check-in"
+msgstr "Anreise"
+
+msgid "Nights"
+msgstr "Nächte"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "No recent reservations."
+msgstr "Keine aktuellen Reservierungen."
+
+msgid "View All"
+msgstr "Alle anzeigen"
+
+msgid "Today's Activity"
+msgstr "Aktivitäten heute"
+
+msgid "Check-ins"
+msgstr "Anreisen"
+
+msgid "Check-outs"
+msgstr "Abreisen"
+
+msgid "No activity today."
+msgstr "Keine Aktivitäten heute."
+
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+msgid "Search reservations..."
+msgstr "Reservierungen suchen..."
+
+msgid "All Statuses"
+msgstr "Alle Status"
+
+msgid "Confirmed"
+msgstr "Bestätigt"
+
+msgid "Cancelled"
+msgstr "Storniert"
+
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+msgid "All Rooms"
+msgstr "Alle Zimmer"
+
+msgid "Filter"
+msgstr "Filtern"
+
+msgid "Clear"
+msgstr "Zurücksetzen"
+
+msgid "Check-out"
+msgstr "Abreise"
+
+msgid "Guests"
+msgstr "Gäste"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "night"
+msgstr "Nacht"
+
+msgid "nights"
+msgstr "Nächte"
+
+msgid "adults"
+msgstr "Erwachsene"
+
+msgid "children"
+msgstr "Kinder"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "No reservations found."
+msgstr "Keine Reservierungen gefunden."
+
+msgid "Previous"
+msgstr "Vorherige"
+
+msgid "Next"
+msgstr "Nächste"
+
+msgid "Edit Reservation"
+msgstr "Reservierung bearbeiten"
+
+msgid "Back to Reservations"
+msgstr "Zurück zu Reservierungen"
+
+msgid "Guest Information"
+msgstr "Gastinformationen"
+
+msgid "Full Name *"
+msgstr "Vollständiger Name *"
+
+msgid "Email Address *"
+msgstr "E-Mail-Adresse *"
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "Booking Details"
+msgstr "Buchungsdetails"
+
+msgid "— Select Room —"
+msgstr "— Zimmer auswählen —"
+
+msgid "Check-in Date *"
+msgstr "Anreisedatum *"
+
+msgid "Check-out Date *"
+msgstr "Abreisedatum *"
+
+msgid "Adults *"
+msgstr "Erwachsene *"
+
+msgid "Children"
+msgstr "Kinder"
+
+msgid "Pricing & Notes"
+msgstr "Preise & Notizen"
+
+msgid "Total Price (€) *"
+msgstr "Gesamtpreis (€) *"
+
+msgid "Internal Notes"
+msgstr "Interne Notizen"
+
+msgid "Save Reservation"
+msgstr "Reservierung speichern"
+
+msgid "Booking Summary"
+msgstr "Buchungsübersicht"
+
+msgid "Reference:"
+msgstr "Referenz:"
+
+msgid "Created:"
+msgstr "Erstellt:"
+
+msgid "Nights:"
+msgstr "Nächte:"
+
+msgid "Select dates to calculate."
+msgstr "Daten auswählen zur Berechnung."
+
+msgid "Total:"
+msgstr "Gesamt:"
+
+msgid "Send Confirmation Email"
+msgstr "Bestätigungs-E-Mail senden"
+
+msgid "Delete Reservation"
+msgstr "Reservierung löschen"
+
+msgid "Previous Month"
+msgstr "Vorheriger Monat"
+
+msgid "Next Month"
+msgstr "Nächster Monat"
+
+msgid "Loading calendar..."
+msgstr "Kalender wird geladen..."
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Sun"
+msgstr "So"
+
+msgid "Mon"
+msgstr "Mo"
+
+msgid "Tue"
+msgstr "Di"
+
+msgid "Wed"
+msgstr "Mi"
+
+msgid "Thu"
+msgstr "Do"
+
+msgid "Fri"
+msgstr "Fr"
+
+msgid "Sat"
+msgstr "Sa"
+
+msgid "Hotel Booking Settings"
+msgstr "Hotel-Buchungseinstellungen"
+
+msgid "Email Settings"
+msgstr "E-Mail-Einstellungen"
+
+msgid "From Name"
+msgstr "Absendername"
+
+msgid "From Email"
+msgstr "Absender-E-Mail"
+
+msgid "Admin Notification Email"
+msgstr "Admin-Benachrichtigungs-E-Mail"
+
+msgid "Check-in / Check-out"
+msgstr "Anreise / Abreise"
+
+msgid "Check-in Time"
+msgstr "Anreisezeit"
+
+msgid "Check-out Time"
+msgstr "Abreisezeit"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Currency Code"
+msgstr "Währungscode"
+
+msgid "Currency Symbol"
+msgstr "Währungssymbol"
+
+msgid "Deposit & Policies"
+msgstr "Anzahlung & Richtlinien"
+
+msgid "Deposit Percentage"
+msgstr "Anzahlungsprozentsatz"
+
+msgid "Cancellation Policy"
+msgstr "Stornierungsrichtlinie"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Book Your Stay"
+msgstr "Aufenthalt buchen"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Select Room"
+msgstr "Zimmer auswählen"
+
+msgid "Your Details"
+msgstr "Ihre Daten"
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "1 Adult"
+msgstr "1 Erwachsener"
+
+msgid "2 Adults"
+msgstr "2 Erwachsene"
+
+msgid "3 Adults"
+msgstr "3 Erwachsene"
+
+msgid "4 Adults"
+msgstr "4 Erwachsene"
+
+msgid "5 Adults"
+msgstr "5 Erwachsene"
+
+msgid "6 Adults"
+msgstr "6 Erwachsene"
+
+msgid "0 Children"
+msgstr "0 Kinder"
+
+msgid "1 Child"
+msgstr "1 Kind"
+
+msgid "2 Children"
+msgstr "2 Kinder"
+
+msgid "3 Children"
+msgstr "3 Kinder"
+
+msgid "4 Children"
+msgstr "4 Kinder"
+
+msgid "Check Availability"
+msgstr "Verfügbarkeit prüfen"
+
+msgid "Available Rooms"
+msgstr "Verfügbare Zimmer"
+
+msgid "per night"
+msgstr "pro Nacht"
+
+msgid "Capacity"
+msgstr "Kapazität"
+
+msgid "Select This Room"
+msgstr "Dieses Zimmer wählen"
+
+msgid "Room:"
+msgstr "Zimmer:"
+
+msgid "Check-in:"
+msgstr "Anreise:"
+
+msgid "Check-out:"
+msgstr "Abreise:"
+
+msgid "Nights:"
+msgstr "Nächte:"
+
+msgid "Guests:"
+msgstr "Gäste:"
+
+msgid "Special Requests"
+msgstr "Besondere Wünsche"
+
+msgid "Any special requests or notes..."
+msgstr "Besondere Wünsche oder Anmerkungen..."
+
+msgid "Continue to Confirmation"
+msgstr "Weiter zur Bestätigung"
+
+msgid "Confirm Your Booking"
+msgstr "Buchung bestätigen"
+
+msgid "Booking Details"
+msgstr "Buchungsdetails"
+
+msgid "Total Price"
+msgstr "Gesamtpreis"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "I agree to the"
+msgstr "Ich stimme den"
+
+msgid "cancellation policy"
+msgstr "Stornierungsbedingungen"
+
+msgid "and"
+msgstr "und"
+
+msgid "terms & conditions"
+msgstr "AGB"
+
+msgid "Complete Booking"
+msgstr "Buchung abschließen"
+
+msgid "Booking Confirmed!"
+msgstr "Buchung bestätigt!"
+
+msgid "Thank you for your reservation. A confirmation email has been sent to your address."
+msgstr "Vielen Dank für Ihre Reservierung. Eine Bestätigungs-E-Mail wurde an Ihre Adresse gesendet."
+
+msgid "Booking Reference"
+msgstr "Buchungsreferenz"
+
+msgid "Need to modify your booking?"
+msgstr "Möchten Sie Ihre Buchung ändern?"
+
+msgid "Please contact us:"
+msgstr "Bitte kontaktieren Sie uns:"
+
+msgid "Return to Homepage"
+msgstr "Zurück zur Startseite"
+
+msgid "Your reservation at Rhein-Hotel Krone has been confirmed."
+msgstr "Ihre Reservierung im Rhein-Hotel Krone wurde bestätigt."
+
+msgid "Booking Reference:"
+msgstr "Buchungsreferenz:"
+
+msgid "Need help?"
+msgstr "Benötigen Sie Hilfe?"
+
+msgid "Contact us:"
+msgstr "Kontaktieren Sie uns:"
+
+msgid "Print Confirmation"
+msgstr "Bestätigung drucken"
+
+msgid "Back to Homepage"
+msgstr "Zurück zur Startseite"
+
+msgid "Booking not found. Please check your reference number."
+msgstr "Buchung nicht gefunden. Bitte überprüfen Sie Ihre Referenznummer."
+
+msgid "Booking Confirmation"
+msgstr "Buchungsbestätigung"
+
+msgid "Your Booking is Confirmed!"
+msgstr "Ihre Buchung ist bestätigt!"
+
+msgid "Dear"
+msgstr "Sehr geehrte/r"
+
+msgid "Thank you for choosing Rhein-Hotel Krone. We are delighted to confirm your reservation."
+msgstr "Vielen Dank, dass Sie das Rhein-Hotel Krone gewählt haben. Wir freuen uns, Ihre Reservierung zu bestätigen."
+
+msgid "Check-in from 14:00 | Check-out by 12:00"
+msgstr "Anreise ab 14:00 Uhr | Abreise bis 12:00 Uhr"
+
+msgid "We look forward to welcoming you to our historic hotel on the Rhine River."
+msgstr "Wir freuen uns darauf, Sie in unserem historischen Hotel am Rhein willkommen zu heißen."
+
+msgid "Warm regards,"
+msgstr "Mit freundlichen Grüßen,"
+
+msgid "The Team at Rhein-Hotel Krone"
+msgstr "Das Team des Rhein-Hotel Krone"
+
+msgid "Rheinuferstraße 8, 56154 Boppard am Rhein"
+msgstr "Rheinuferstraße 8, 56154 Boppard am Rhein"
+
+msgid "New Booking Notification"
+msgstr "Neue Buchungsbenachrichtigung"
+
+msgid "New Reservation Received"
+msgstr "Neue Reservierung eingegangen"
+
+msgid "A new reservation has been submitted:"
+msgstr "Eine neue Reservierung wurde eingereicht:"
+
+msgid "Manage Reservation"
+msgstr "Reservierung verwalten"
+
+msgid "Rooms"
+msgstr "Zimmer"
+
+msgid "Add New Room"
+msgstr "Neues Zimmer hinzufügen"
+
+msgid "Edit Room"
+msgstr "Zimmer bearbeiten"
+
+msgid "Room Details"
+msgstr "Zimmerdetails"
+
+msgid "Price per Night (€)"
+msgstr "Preis pro Nacht (€)"
+
+msgid "Max Adults"
+msgstr "Max. Erwachsene"
+
+msgid "Max Children"
+msgstr "Max. Kinder"
+
+msgid "Room Size (m²)"
+msgstr "Zimmergröße (m²)"
+
+msgid "Bed Type"
+msgstr "Bettart"
+
+msgid "e.g. King, Twin, Double"
+msgstr "z.B. King, Twin, Doppel"
+
+msgid "Amenities"
+msgstr "Ausstattung"
+
+msgid "Comma-separated: WiFi, Minibar, Safe..."
+msgstr "Kommagetrennt: WLAN, Minibar, Safe..."
+
+msgid "View"
+msgstr "Aussicht"
+
+msgid "e.g. Rhine River View, Garden View"
+msgstr "z.B. Rheinblick, Gartenblick"
+
+msgid "Floor"
+msgstr "Etage"
+
+msgid "Security check failed."
+msgstr "Sicherheitsüberprüfung fehlgeschlagen."
+
+msgid "Invalid request."
+msgstr "Ungültige Anfrage."
+
+msgid "Please select valid check-in and check-out dates."
+msgstr "Bitte wählen Sie gültige Anreise- und Abreisedaten."
+
+msgid "Check-out must be after check-in."
+msgstr "Abreise muss nach der Anreise liegen."
+
+msgid "No rooms available for the selected dates."
+msgstr "Keine Zimmer für die ausgewählten Daten verfügbar."
+
+msgid "Please fill in all required fields."
+msgstr "Bitte füllen Sie alle Pflichtfelder aus."
+
+msgid "Invalid email address."
+msgstr "Ungültige E-Mail-Adresse."
+
+msgid "Sorry, this room is no longer available for the selected dates."
+msgstr "Entschuldigung, dieses Zimmer ist für die ausgewählten Daten nicht mehr verfügbar."
+
+msgid "An error occurred. Please try again."
+msgstr "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+
+msgid "pending"
+msgstr "ausstehend"
+
+msgid "confirmed"
+msgstr "bestätigt"
+
+msgid "cancelled"
+msgstr "storniert"
+
+msgid "completed"
+msgstr "abgeschlossen"

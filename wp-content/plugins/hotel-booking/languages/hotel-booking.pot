@@ -1,0 +1,1172 @@
+# Copyright (C) 2024 Rhein-Hotel Krone
+# This file is distributed under the same license as the Hotel Booking plugin.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Booking 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-booking\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: WP-CLI 2.x\n"
+"X-Domain: hotel-booking\n"
+
+#. Plugin Name of the plugin
+msgid "Hotel Booking"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://rhein-hotel-krone.de"
+msgstr ""
+
+#. Description of the plugin
+msgid "Complete hotel room reservation system for Rhein-Hotel Krone. Manage bookings, availability, rates and guest emails."
+msgstr ""
+
+#. Author of the plugin
+msgid "Hotel Krone"
+msgstr ""
+
+#: hotel-booking.php
+msgid "Hotel Booking requires WordPress 6.0 or higher."
+msgstr ""
+
+#: hotel-booking.php
+msgid "Hotel Booking requires PHP 7.4 or higher."
+msgstr ""
+
+# -----------------------------------------------
+# Admin Menu
+# -----------------------------------------------
+
+#: admin/class-hotel-booking-admin.php
+msgid "Hotel Booking"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Booking"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Reservations"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "All Reservations"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Add Reservation"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Availability Calendar"
+msgstr ""
+
+#: admin/class-hotel-booking-admin.php
+msgid "Settings"
+msgstr ""
+
+# -----------------------------------------------
+# Admin Dashboard
+# -----------------------------------------------
+
+#: admin/views/dashboard.php
+msgid "Hotel Booking Dashboard"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Confirmed Bookings"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "This month"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Revenue This Month"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "vs last month"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Occupancy Rate"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "This month"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Check-ins Today"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Check-outs Today"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Pending"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Needs review"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Recent Reservations"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Reference"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Guest"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Room"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Check-in"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Nights"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Total"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Status"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "No recent reservations."
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "View All"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Today's Activity"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Check-ins"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "Check-outs"
+msgstr ""
+
+#: admin/views/dashboard.php
+msgid "No activity today."
+msgstr ""
+
+# -----------------------------------------------
+# Admin Reservations List
+# -----------------------------------------------
+
+#: admin/views/reservations.php
+msgid "All Reservations"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Add New"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Search reservations..."
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "All Statuses"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Pending"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Confirmed"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Cancelled"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Completed"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "All Rooms"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Filter"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Clear"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Reference"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Guest"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Room"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Check-in"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Check-out"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Guests"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Total"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Status"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Actions"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "night"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "nights"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "adults"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "children"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Edit"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Delete"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "No reservations found."
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Previous"
+msgstr ""
+
+#: admin/views/reservations.php
+msgid "Next"
+msgstr ""
+
+# -----------------------------------------------
+# Admin Reservation Edit
+# -----------------------------------------------
+
+#: admin/views/reservation-edit.php
+msgid "Edit Reservation"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Add Reservation"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Back to Reservations"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Guest Information"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Full Name *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Email Address *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Phone Number"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Language"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "English"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "German"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Booking Details"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Room *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "— Select Room —"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Status"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Pending"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Confirmed"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Cancelled"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Completed"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Check-in Date *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Check-out Date *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Adults *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Children"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Pricing & Notes"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Total Price (€) *"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Internal Notes"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Save Reservation"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Booking Summary"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Reference:"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Created:"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Nights:"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Select dates to calculate."
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Total:"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Send Confirmation Email"
+msgstr ""
+
+#: admin/views/reservation-edit.php
+msgid "Delete Reservation"
+msgstr ""
+
+# -----------------------------------------------
+# Admin Availability Calendar
+# -----------------------------------------------
+
+#: admin/views/availability.php
+msgid "Availability Calendar"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Previous Month"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Next Month"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "All Rooms"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Loading calendar..."
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Confirmed"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Pending"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Available"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Sun"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Mon"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Tue"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Wed"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Thu"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Fri"
+msgstr ""
+
+#: admin/views/availability.php
+msgid "Sat"
+msgstr ""
+
+# -----------------------------------------------
+# Admin Settings
+# -----------------------------------------------
+
+#: admin/views/settings.php
+msgid "Hotel Booking Settings"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Email Settings"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "From Name"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "From Email"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Admin Notification Email"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Check-in / Check-out"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Check-in Time"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Check-out Time"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Currency"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Currency Code"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Currency Symbol"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Deposit & Policies"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Deposit Percentage"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Cancellation Policy"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Save Settings"
+msgstr ""
+
+#: admin/views/settings.php
+msgid "Settings saved."
+msgstr ""
+
+# -----------------------------------------------
+# Public Booking Form
+# -----------------------------------------------
+
+#: public/views/booking-form.php
+msgid "Book Your Stay"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Search"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Select Room"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Your Details"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Confirm"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-in"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-out"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "1 Adult"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "2 Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "3 Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "4 Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "5 Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "6 Adults"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Children"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "0 Children"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "1 Child"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "2 Children"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "3 Children"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "4 Children"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check Availability"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Available Rooms"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "per night"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Capacity"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Select This Room"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Your Details"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Booking Summary"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Room:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-in:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-out:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Nights:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Guests:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Full Name *"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Email Address *"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Phone Number"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Special Requests"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Any special requests or notes..."
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Continue to Confirmation"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Confirm Your Booking"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Booking Details"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Room"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-in"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Check-out"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Nights"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Guests"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Total Price"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Guest Information"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Name"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Email"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Phone"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Notes"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "I agree to the"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "cancellation policy"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "and"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "terms & conditions"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Complete Booking"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Booking Confirmed!"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Thank you for your reservation. A confirmation email has been sent to your address."
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Booking Reference"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Need to modify your booking?"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Please contact us:"
+msgstr ""
+
+#: public/views/booking-form.php
+msgid "Return to Homepage"
+msgstr ""
+
+# -----------------------------------------------
+# Public Booking Confirmation Page
+# -----------------------------------------------
+
+#: public/views/booking-confirmation.php
+msgid "Booking Confirmed!"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Your reservation at Rhein-Hotel Krone has been confirmed."
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Booking Reference:"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Booking Details"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Room"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Check-in"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Check-out"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Nights"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Guests"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Total"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Status"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Need help?"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Contact us:"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Print Confirmation"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Back to Homepage"
+msgstr ""
+
+#: public/views/booking-confirmation.php
+msgid "Booking not found. Please check your reference number."
+msgstr ""
+
+# -----------------------------------------------
+# Email Templates — Guest Confirmation
+# -----------------------------------------------
+
+#: templates/email-guest-confirmation.php
+msgid "Booking Confirmation"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Rhein-Hotel Krone"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Your Booking is Confirmed!"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Dear"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Thank you for choosing Rhein-Hotel Krone. We are delighted to confirm your reservation."
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Booking Reference:"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Booking Details"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Room"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Check-in"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Check-out"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Nights"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Adults"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Children"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Total"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Check-in from 14:00 | Check-out by 12:00"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "We look forward to welcoming you to our historic hotel on the Rhine River."
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Warm regards,"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "The Team at Rhein-Hotel Krone"
+msgstr ""
+
+#: templates/email-guest-confirmation.php
+msgid "Rheinuferstraße 8, 56154 Boppard am Rhein"
+msgstr ""
+
+# -----------------------------------------------
+# Email Templates — Admin Notification
+# -----------------------------------------------
+
+#: templates/email-admin-notification.php
+msgid "New Booking Notification"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "New Reservation Received"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "A new reservation has been submitted:"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Reference"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Guest"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Email"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Phone"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Room"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Check-in"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Check-out"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Nights"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Guests"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Total"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Notes"
+msgstr ""
+
+#: templates/email-admin-notification.php
+msgid "Manage Reservation"
+msgstr ""
+
+# -----------------------------------------------
+# Plugin Post Types (hb_room)
+# -----------------------------------------------
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Rooms"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Room"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Add New Room"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Edit Room"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "All Rooms"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Room Details"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Price per Night (€)"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Max Adults"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Max Children"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Room Size (m²)"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Bed Type"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "e.g. King, Twin, Double"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Amenities"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Comma-separated: WiFi, Minibar, Safe..."
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "View"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "e.g. Rhine River View, Garden View"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Floor"
+msgstr ""
+
+#: includes/class-hotel-booking-post-types.php
+msgid "Security check failed."
+msgstr ""
+
+# -----------------------------------------------
+# AJAX error messages
+# -----------------------------------------------
+
+#: includes/class-hotel-booking.php
+msgid "Invalid request."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "Please select valid check-in and check-out dates."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "Check-out must be after check-in."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "No rooms available for the selected dates."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "Invalid email address."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "Sorry, this room is no longer available for the selected dates."
+msgstr ""
+
+#: includes/class-hotel-booking.php
+msgid "An error occurred. Please try again."
+msgstr ""
+
+# -----------------------------------------------
+# Status labels (used throughout admin + public)
+# -----------------------------------------------
+
+#: includes/class-hotel-booking-reservation.php
+msgid "pending"
+msgstr ""
+
+#: includes/class-hotel-booking-reservation.php
+msgid "confirmed"
+msgstr ""
+
+#: includes/class-hotel-booking-reservation.php
+msgid "cancelled"
+msgstr ""
+
+#: includes/class-hotel-booking-reservation.php
+msgid "completed"
+msgstr ""
