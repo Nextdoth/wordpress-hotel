@@ -7,6 +7,7 @@
   max-width: 860px;
   margin: 0 auto;
   font-family: 'Inter', sans-serif;
+  overflow: hidden;
 }
 
 /* ── Steps Indicator ─────────────────────────────────────── */
@@ -108,11 +109,10 @@
 /* ── Form Fields ─────────────────────────────────────────── */
 .hb-search-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
   gap: 16px;
   margin-bottom: 24px;
 }
-
 @media (max-width: 640px) {
   .hb-search-grid { grid-template-columns: 1fr 1fr; }
 }
