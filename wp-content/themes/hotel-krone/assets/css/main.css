@@ -1937,3 +1937,27 @@ p:last-child { margin-bottom: 0; }
   .site-header, .hk-booking-bar-float, .site-footer, .hk-cta { display: none; }
   body { background: #fff; }
 }
+
+/* ── Booking widget inside sidebar ── */
+.hk-booking-sidebar .hb-panel {
+  padding: 20px;
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+}
+
+.hk-booking-sidebar .hb-search-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.hk-booking-sidebar .hb-field input,
+.hk-booking-sidebar .hb-field select {
+  padding: 8px 10px;
+  font-size: 13px;
+}
+
+.hk-booking-sidebar .hb-panel-title {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
