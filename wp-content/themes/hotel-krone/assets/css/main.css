@@ -1,3 +1,4 @@
+
 /* ============================================================
    Hotel Krone — Main Stylesheet
    Design: Deep Navy + Warm Gold | Playfair Display + Inter
@@ -1947,7 +1948,7 @@ p:last-child { margin-bottom: 0; }
 }
 
 .hk-booking-sidebar .hb-search-grid {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 10px;
 }
 
