@@ -29,21 +29,29 @@ $bk       = hk_get_option( 'hk_booking_com' );
                 <p class="hk-footer-tagline"><?php esc_html_e( 'Where History Meets Luxury', 'hotel-krone' ); ?></p>
                 <p class="hk-footer-desc"><?php esc_html_e( 'Historic luxury hotel on the banks of the Rhine River in Boppard, Germany. Experience over a thousand years of hospitality.', 'hotel-krone' ); ?></p>
 
-                <!-- Social Links -->
-                <div class="hk-social-links">
-                    <?php if ( $fb ) : ?>
-                    <a href="<?php echo esc_url( $fb ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Facebook">f</a>
-                    <?php endif; ?>
-                    <?php if ( $ig ) : ?>
-                    <a href="<?php echo esc_url( $ig ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Instagram">&#9679;</a>
-                    <?php endif; ?>
-                    <?php if ( $ta ) : ?>
-                    <a href="<?php echo esc_url( $ta ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="TripAdvisor">★</a>
-                    <?php endif; ?>
-                    <?php if ( $bk ) : ?>
-                    <a href="<?php echo esc_url( $bk ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Booking.com">B</a>
-                    <?php endif; ?>
-                </div>
+              <div class="hk-social-links">
+    <?php if ( $fb ) : ?>
+    <a href="<?php echo esc_url( $fb ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Facebook">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+    </a>
+    <?php endif; ?>
+    <?php if ( $ig ) : ?>
+    <a href="<?php echo esc_url( $ig ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
+    </a>
+    <?php endif; ?>
+    <?php if ( $ta ) : ?>
+    <a href="<?php echo esc_url( $ta ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="TripAdvisor">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 4a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm0 14c-2.67 0-5.03-1.31-6.48-3.32A7.95 7.95 0 0 1 12 14c2.12 0 4.04.83 5.48 2.18A7.93 7.93 0 0 1 12 20z"/></svg>
+    </a>
+    <?php endif; ?>
+    <?php if ( $bk ) : ?>
+    <a href="<?php echo esc_url( $bk ); ?>" class="hk-social-link" target="_blank" rel="noopener" aria-label="Booking.com">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 3h5.5C14 3 16 5 16 7.5c0 1.2-.5 2.3-1.3 3C16 11.2 17 12.7 17 14.5 17 17.5 14.8 20 12 20H6V3zm3 3v4h2.5c1 0 1.5-.7 1.5-2S12.5 6 11.5 6H9zm0 7v4h3c1.1 0 2-.9 2-2s-.9-2-2-2H9z"/></svg>
+    </a>
+    <?php endif; ?>
+</div>
+
             </div>
 
             <!-- Navigation -->
