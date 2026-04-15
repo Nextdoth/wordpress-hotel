@@ -29,7 +29,7 @@
     <div class="hb-panel" id="hb-step-1">
         <h3 class="hb-panel-title"><?php esc_html_e( 'Check Availability', 'hotel-booking' ); ?></h3>
         <form id="hb-search-form" class="hb-search-form">
-            <?php wp_nonce_field( 'hb_nonce', 'hb_nonce' ); ?>
+            <?php wp_nonce_field( 'hb_nonce', 'nonce' ); ?>
             <input type="hidden" name="action" value="hb_check_availability">
             <?php if ( ! empty( $atts['room_id'] ) ) :
                 echo '<input type="hidden" name="room_id" value="' . absint( $atts['room_id'] ) . '">';
